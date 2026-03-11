@@ -2,7 +2,7 @@
 
 [![File Exchange Badge](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://de.mathworks.com/matlabcentral/fileexchange/183375-matlab-c-random) [![GitHub top language](https://img.shields.io/github/languages/top/mathworks/climatedatastore)](https://matlab.mathworks.com/)
 
-Simple random number to generate the same numbers in C and Matlab.
+Simple random number generator to create the same random numbers in C and Matlab.
 
 ## Testing
 
