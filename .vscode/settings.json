@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "[json]": {
+        "editor.formatOnSave": false
+    },
+    "C_Cpp.autoAddFileAssociations": false,
+    //"C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.exclusionPolicy": "checkFilesAndFolders",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.dimInactiveRegions": false,
+    //"clangd.arguments": ["--header-insertion=never"],
+    "output.smartScroll.enabled": false,
+    "workbench.tree.indent": 24
+}
